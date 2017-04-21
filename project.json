@@ -1,0 +1,167 @@
+{
+    "projects": [{
+        "project_id": "1",
+        "project_name": "Nithya",
+        "project_logo": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/fountains_08032017_1314.jpg",
+        "project_desc": "Amenities and Features",
+        "project_startDate": "03-08-2017 01:14:00 PM",
+        "project_EndDate": "03-08-2017 01:14:00 PM",
+
+        "blocks": [{
+            "block_id": "1",
+            "block_name": "STAR",
+            "block_img": "https://images4.roofandfloor.com/listing_6630a234014635afeb4566f4836c31c6/1024x600/deepikas-temple-view-royal-apartment-in-thiruverkadu-2jb.jpg",
+            "units": [{
+                "units_no": "app_124",
+                "title": "community-hall_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/community-hall_08032017_1314.jpg",
+                "units_desc":"Cards for display in portfolio style material design by Google.",
+                "facing_name": "EAST",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+            }, {
+                "units_no": "app_125",
+                "title": "open theter_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/open theter_08032017_1314.jpg",
+                "units_desc":"Cards for display in portfolio style material design by Google.",
+                "facing_name": "EAST",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+            }, {
+                "units_no": "app_126",
+                "title": "gym_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/gym_08032017_1314.jpg",
+                "facing_name": "EAST",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+
+            }],
+            "facing_name": "EAST",
+            "bhk_name": "2 BHK",
+            "apartment_name": "D4",
+            "app_sqft": "1250sqft",
+            "app_price": "250000000"
+        }, {
+            "block_id": "2",
+            "block_name": "MOON",
+            "block_img": "https://images4.roofandfloor.com/listing_6630a234014635afeb4566f4836c31c6/1024x600/deepikas-temple-view-royal-apartment-in-thiruverkadu-2jb.jpg",
+            "units": [{
+                "units_no": "app_224",
+                "title": "community-hall_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/community-hall_08032017_1314.jpg",
+                "facing_name": "North",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+            }, {
+                "units_no": "app_225",
+                "title": "open theter_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/open theter_08032017_1314.jpg",
+                "facing_name": "North",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+            }, {
+                "units_no": "app_226",
+                "title": "gym_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/gym_08032017_1314.jpg",
+                "facing_name": "North",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+
+            }],
+
+            "facing_name": "EAST",
+            "bhk_name": "2 BHK",
+            "apartment_name": "D4",
+            "app_sqft": "1500sqft",
+            "app_price": "3250000000"
+        }, {
+            "block_id": "3",
+            "block_name": "Acer",
+            "block_img": "https://images4.roofandfloor.com/listing_6630a234014635afeb4566f4836c31c6/1024x600/deepikas-temple-view-royal-apartment-in-thiruverkadu-2jb.jpg",
+            "units": [ {
+                "units_no": "app_324",
+                "title": "community-hall_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/community-hall_08032017_1314.jpg",
+                "facing_name": "West",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+            }, {
+                "units_no": "app_325",
+                "title": "open theter_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/open theter_08032017_1314.jpg",
+                "facing_name": "West",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+            }, {
+                "units_no": "app_326",
+                "title": "gym_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/gym_08032017_1314.jpg",
+                "facing_name": "West",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+
+            }],
+            "facing_name": "EAST",
+            "bhk_name": "2 BHK",
+            "apartment_name": "D4",
+            "app_sqft": "1500sqft",
+            "app_price": "250000000"
+        }, {
+            "block_id": "4",
+            "block_name": "Skoda",
+            "block_img": "https://images4.roofandfloor.com/listing_6630a234014635afeb4566f4836c31c6/1024x600/deepikas-temple-view-royal-apartment-in-thiruverkadu-2jb.jpg",
+            "units": [{
+                "units_no": "app_424",
+                "title": "community-hall_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/community-hall_08032017_1314.jpg",
+                "facing_name": "South",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+            }, {
+                "units_no": "app_425",
+                "title": "open theter_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/open theter_08032017_1314.jpg",
+                "facing_name": "South",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+            }, {
+                "units_no": "app_426",
+                "title": "gym_08032017_1314.jpg",
+                "url": "http://192.168.1.240/ricrmv2//app/uploads/Cms/Wizard/Events/gym_08032017_1314.jpg",
+                "facing_name": "South",
+                "bhk_name": "2 BHK",
+                "apartment_name": "D4",
+                "app_sqft": "1250sqft",
+                "app_price": "250000000"
+
+            }],
+            "facing_name": "EAST",
+            "bhk_name": "2 BHK",
+            "apartment_name": "D4",
+            "app_sqft": "1500sqft",
+            "app_price": "450000000"
+        }]
+    }]
+}
